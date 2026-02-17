@@ -4,7 +4,7 @@
 **NagaShadow22/NagaShadow22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
-👨‍💻 Currently working on personal projet<br>🔎 Scraping Git for new fun repo !<br>🖥️ Coding, creating and sometimes do funny things with Photoshop<br>🇫🇷 French Web Developer
+👨‍💻 Currently working on personal projet<br>🔎 Scraping Git for new fun repo !<br>🖥️ Coding, creating and sometimes do funny things with Photoshop<br>🏠 French Web Developer
 
 
 # 💻 Tech Stack:
